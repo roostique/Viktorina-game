@@ -1,0 +1,16 @@
+PODS:
+  - AFBlurSegue (1.2.1)
+
+DEPENDENCIES:
+  - AFBlurSegue
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFBlurSegue
+
+SPEC CHECKSUMS:
+  AFBlurSegue: 27e55f015360f4e11117d2c3a959dbb5316eef78
+
+PODFILE CHECKSUM: 7ef2332a5efe017344284f0e1d30df25fd872e1d
+
+COCOAPODS: 1.6.1
